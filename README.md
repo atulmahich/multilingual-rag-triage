@@ -3,9 +3,6 @@
 **🟢 Live Interactive Demo:** [Test the application here]([YOUR_HUGGING_FACE_SPACE_URL](https://huggingface.co/spaces/Atulkumar001/Multilingual-Support-Triage/settings))
 
 An automated Retrieval-Augmented Generation (RAG) pipeline designed to resolve customer support tickets across multiple languages without requiring manual translation.
-# Multilingual AI Support Triage (RAG Pipeline)
-
-An automated Retrieval-Augmented Generation (RAG) pipeline designed to resolve customer support tickets across multiple languages without requiring manual translation. 
 
 ## 📌 The Business Problem
 European tech startups spend thousands of hours manually routing and translating customer support tickets. Traditional keyword-search knowledge bases fail when a user speaks a different language than the internal documentation.
